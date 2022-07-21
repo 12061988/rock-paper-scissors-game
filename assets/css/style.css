@@ -109,7 +109,7 @@ header h1 {
     transform: translateX(-50%);
     width: 540px;
     height: 40%;
-    display: inline-flex;
+    display: none;
 }
 
 #user {
@@ -122,4 +122,112 @@ header h1 {
     position: relative;
     width: 37.5%;
     font-size: 50px;
+}
+
+.who {
+    position: absolute;
+    bottom: 5%;
+    transform: translateX(-50%);
+    text-align: center;
+    color: #dcdcdc;
+    font-size: 30px;   
+}
+
+.green {
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    border: 3px solid lightgreen;
+    box-shadow: 0 0 10px lightgreen;
+    border-radius: 50%;
+    color: #808080;
+    font-size: 35px;
+    background-color: whitesmoke ;
+    cursor: pointer;
+    outline: none;
+    transition: .3s;
+
+}
+
+.red {
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    border: 3px solid red;
+    box-shadow: 0 0 10px red;
+    border-radius: 50%;
+    color: #808080;
+    font-size: 35px;
+    background-color: whitesmoke ;
+    cursor: pointer;
+    outline: none;
+    transition: .3s;
+
+}
+
+.gray {
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    border: 3px solid gray;
+    box-shadow: 0 0 10px gray;
+    border-radius: 50%;
+    color: #808080;
+    font-size: 35px;
+    background-color: whitesmoke ;
+    cursor: pointer;
+    outline: none;
+    transition: .3s;
+
+}
+
+#UserObject{
+	position: absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 110px;
+	height: 110px;
+	font-size: 50px;
+	padding-top: 20px;
+	border: 3px solid #34495e;
+    border-radius: 50%;
+    color: #34495e;
+    background-color: white;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#ComputerObject{
+	position: absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 110px;
+	height: 110px;
+	font-size: 50px;
+	padding-top: 20px;
+	border: 3px solid #34495e;
+    border-radius: 50%;
+    color: #34495e;
+    background-color: white;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#result{
+	position: relative;
+	width: 25%;
+}
+
+#result p{
+	position: absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	font-size: 30px;
+	width: 100%;
+	margin: 0;
+	text-align: center;
 }
