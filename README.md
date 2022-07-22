@@ -44,4 +44,7 @@ This site is targeting adults and childrens in order to play and have fun togeth
   <img width="755" alt="Capture d’écran 2022-07-22 à 19 17 06" src="https://user-images.githubusercontent.com/107476894/180491289-2549481a-fe7f-4150-85a7-5f3673bc853c.png">
   <img width="718" alt="Capture d’écran 2022-07-22 à 19 17 23" src="https://user-images.githubusercontent.com/107476894/180491329-bfe06626-05da-4843-a6f2-8e1440bd39ab.png">
 
+   - Page works in responsive test server: mobile, desktop, laptop amd more
+   
+   <img width="1357" alt="Capture d’écran 2022-07-22 à 22 39 02" src="https://user-images.githubusercontent.com/107476894/180564455-eaab46f6-7fdc-4b67-9362-77e2b9796404.png">
 
