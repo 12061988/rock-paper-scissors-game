@@ -1,7 +1,7 @@
 # Rock Paper Scissors Game
 
 Rock Paper Scissors is a hand game originating from China, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). "Scissors" is identical to the two-fingered V sign (also indicating "victory" or "peace") except that it is pointed horizontally instead of being held upright in the air.
-This site is targeting adults and childrens in order to play and have fun together.
+This site is targeting adults and children in order to play against the computer and have fun together.
 ## Features
 
 
@@ -11,7 +11,7 @@ This site is targeting adults and childrens in order to play and have fun togeth
 - **The header**   
  
   - The header shows the name of the game.
-  - The simple and bright colour of the header brings easy accessibility for the user.
+  - The simple and bright colour of the header brings easy accessibility to the user.
   - The black and whitesmoke contrast is the most efficient style rule for this website
   <img width="1378" alt="Capture d’écran 2022-07-22 à 18 45 42" src="https://user-images.githubusercontent.com/107476894/180487438-4f1921a9-09ca-4bb2-b7f9-8968761d8c9c.png">
 
@@ -48,3 +48,41 @@ This site is targeting adults and childrens in order to play and have fun togeth
    
    <img width="1357" alt="Capture d’écran 2022-07-22 à 22 39 02" src="https://user-images.githubusercontent.com/107476894/180564455-eaab46f6-7fdc-4b67-9362-77e2b9796404.png">
 
+
+## Bugs
+
+  -
+  -
+
+## Validators Testing
+
+  - HTML: confirmed via validator
+  - CSS: confirmed via validator
+  - Accessibility: confirmed via Lighthouse
+  
+  <img width="1332" alt="Capture d’écran 2022-07-23 à 00 35 19" src="https://user-images.githubusercontent.com/107476894/180577221-e75182b2-7e98-4642-ae30-0ca78af86302.png">
+
+
+## Deployment
+  
+  - The site was deployed to GitHub pages. the steps to deploy are as follows:
+   - In the GitHub repository, navigate to the settings tab
+   - From the source section drop-down menu, select the Main branch
+   - Once the mester branch has been selected, the page provided the link to the completed website.
+     
+- The live link can be found here - https://12061988.github.io/rock-paper-scissors-game/
+
+
+
+
+## Credits
+
+ **Content**
+
+   - Love Maths walkthrough Project
+   - Youtube code tutorials as example and adapted to my own vision
+
+ **Media** 
+
+   - Google Fonts
+   - Fontawesome 
