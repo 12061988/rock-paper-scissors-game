@@ -11,7 +11,7 @@ setInterval(score, 50);
 function convert(word) {
     if(word === "paper") return '<i class="fa-solid fa-hand-paper"></i>';
     if(word === "rock") return '<i class="fa-solid fa-hand-rock"></i>';
-    return '<i class="fa-solid fa-hand-rock"></i>'
+    return '<i class="fa-solid fa-hand-rock"></i>';
 }
 
 function game(UserChoice) {
@@ -42,20 +42,17 @@ function game(UserChoice) {
 function win(btn) {
     UserPoints++;
     document.getElementById("who").innerHTML = "Well Done! You win!";
-    var btn = document.getElementById(btn)
+    var btn = document.getElementById(btn);
    
 }
 function draw(btn) {
     document.getElementById("who").innerHTML = "It's a Draw!";
-    var btn = document.getElementById(btn)
-    
-
+    var btn = document.getElementById(btn);
 }
+    
 
 function lose(btn) {
 document.getElementById("who").innerHTML = "Sorry, You lose...";
-var btn = document.getElementById(btn)
-
-    
+var btn = document.getElementById(btn);
 
 }
