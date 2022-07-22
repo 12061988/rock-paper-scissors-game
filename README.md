@@ -55,7 +55,7 @@ This site is targeting adults and children in order to play against the computer
   -
 
 ## Validators Testing
-
+  - JS HINT checker: confirmed
   - HTML: confirmed via validator
   - CSS: confirmed via validator
   - Accessibility: confirmed via Lighthouse
