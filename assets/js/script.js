@@ -126,10 +126,7 @@ function lose(btn) {
 
     }
 
-
-
 }
-
 
 
 function gameOver() {
