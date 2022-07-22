@@ -134,6 +134,6 @@ function lose(btn) {
 
 function gameOver() {
 
-    // Things happen here. :)
+    document.getElementById("who").innerHTML = "Game Over, Start Again?"; 
 
 }
