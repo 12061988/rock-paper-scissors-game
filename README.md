@@ -75,7 +75,7 @@ This site is targeting adults and children in order to play against the computer
 
 ## Deployment
   
-  - The site was deployed to GitHub pages. the steps to deploy are as follows:
+  - The site was deployed to GitHub pages. The steps to deploy are as follows:
    - In the GitHub repository, navigate to the settings tab
    - From the source section drop-down menu, select the Main branch
    - Once the main branch has been selected, the page provided the link to the completed website.
