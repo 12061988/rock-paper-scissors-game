@@ -31,7 +31,8 @@ This site is targeting adults and children in order to play against the computer
   - Fontawesome helped to realise a designed section with visibility and illustrative icons.
   <img width="1369" alt="Capture d’écran 2022-07-22 à 18 46 13" src="https://user-images.githubusercontent.com/107476894/180488426-fc755611-a021-422e-80ed-1aa9c2883a98.png">
   
-  - The buttons plus hover can change colour and when pressed: they show contrasted and opposite symetric colour for the player comfort.<img width="1139" alt="Capture d’écran 2022-07-22 à 18 52 24" src="https://user-images.githubusercontent.com/107476894/180489519-7443ea9a-a28f-4078-b7aa-74c8608da7fb.png">
+  - The buttons plus hover can change colour and when pressed: they show contrasted and opposite symetric colour for the player visual comfort.
+  - <img width="1139" alt="Capture d’écran 2022-07-22 à 18 52 24" src="https://user-images.githubusercontent.com/107476894/180489519-7443ea9a-a28f-4078-b7aa-74c8608da7fb.png">
 
   
    <img width="980" alt="Capture d’écran 2022-07-22 à 18 52 53" src="https://user-images.githubusercontent.com/107476894/180488476-c6a654aa-c530-4718-be87-e05172e50c6f.png">
